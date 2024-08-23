@@ -11,8 +11,7 @@ Hello there! I'm **Afonso Inglês**, a Portuguese studentet with a growing passi
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <br />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Mongo_DB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />   
     
   
