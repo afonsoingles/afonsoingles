@@ -20,12 +20,12 @@ Hello there! I'm **Afonso Inglês**, a Portuguese studentet with a growing passi
 
 ## 🌐 Connect with me!
 <p>
-    <a href="mailto:afonsorodriguesingles@gmail.com"><img src="https://img.shields.io/badge/white?style=for-the-badge&logo=email&logoColor=white" /></a>
+    <a href="mailto:afonsorodriguesingles@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=mail&logoColor=white" /></a>
     
 </p>
 
 
 ## 📊 Statistics
-[![joaotonaco GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoingles&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
+[![afonsoingles GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsoingles&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/afonsoingles)
 <br />
-[![joaotonaco Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoingles&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/joaotonaco)
+[![afonsoingles Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoingles&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/afonsoingles)
