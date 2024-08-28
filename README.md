@@ -1,5 +1,5 @@
 ## 👋 About me
-Hello there! I'm **Afonso Inglês**, a Portuguese studentet with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I want to work in this field in the future. Currently, my primary focus lies in developing the [Python Everything](https://pythoneverything.com) project.
+Hello there! I'm **Afonso Inglês**, a Portuguese student with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I want to work in this field in the future. Currently, my primary focus lies in developing [Python Everything](https://pythoneverything.com).
 
 *Chief Executive Officer & Developer @ [Python Everything](https://pythoneverything.com/)*
 
