@@ -1,7 +1,6 @@
 # 💫 About Me:
 Student Developer based in Portugal and Open Source lover.
-Loves robotics and beeing challenged.
-Currently making **Codorb** and working on school projects.
+Currently making **AlertaRiscos** and working on school projects.
 
 
 # 💻 Tech Stack:
