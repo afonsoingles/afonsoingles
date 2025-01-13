@@ -1,6 +1,5 @@
 # 💫 About Me:
 Student Developer based in Portugal and Open Source lover.
-Currently making **AlertaRiscos** and working on school projects.
 
 
 # 💻 Tech Stack:
